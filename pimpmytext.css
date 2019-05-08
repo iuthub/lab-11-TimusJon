@@ -26,3 +26,17 @@ textarea {
 	font-family: monospace;
 	font-size: 12pt;
 }
+
+.transform {
+	font-weight: bold;
+	text-decoration: underline;
+	color: green;
+	text-decoration: blink;
+}
+
+.norm {
+	font-weight: normal;
+	text-decoration: none;
+	color: black;
+	text-decoration: none;
+}
